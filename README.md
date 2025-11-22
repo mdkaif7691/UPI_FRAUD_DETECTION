@@ -97,12 +97,6 @@ Possibly a virtual environment
 
 Installation / Getting started:
 
-Clone the repository:
-
-git clone https://github.com/MurapalaAnusha/UPI_FRAUD_DETECTION.git
-cd UPI_FRAUD_DETECTION
-
-
 Create a virtual environment (recommended):
 
 python -m venv venv
